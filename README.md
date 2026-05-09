@@ -1,6 +1,6 @@
 # Hi there, I'm Gandharva Manoj Vaidya 👋
 
-🔐 Cybersecurity enthusiast | Aspiring Junior Security Analyst | SOC Analyst |CTF Player
+🔐 Cybersecurity enthusiast | Aspiring Junior Security Analyst | SOC Analyst | CTF Player
 
 ## About me
 
